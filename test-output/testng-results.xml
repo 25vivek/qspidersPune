@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19659" started-at="2017-05-14T18:12:21Z" finished-at="2017-05-14T18:12:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19659" started-at="2017-05-14T18:12:21Z" finished-at="2017-05-14T18:12:40Z">
+      <class name="com.test.actiTime.qspidersPune.loginPage.TC001_LoginToTheActiTime">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.actiTime.qspidersPune.loginPage.TC001_LoginToTheActiTime@589838eb]" name="setUp" is-config="true" duration-ms="15362" started-at="2017-05-14T23:42:21Z" finished-at="2017-05-14T23:42:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginWithvalidCredentials()[pri:0, instance:com.test.actiTime.qspidersPune.loginPage.TC001_LoginToTheActiTime@589838eb]" name="verifyLoginWithvalidCredentials" duration-ms="4036" started-at="2017-05-14T23:42:36Z" finished-at="2017-05-14T23:42:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithvalidCredentials -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.actiTime.qspidersPune.loginPage.TC001_LoginToTheActiTime@589838eb]" name="endTest" is-config="true" duration-ms="198" started-at="2017-05-14T23:42:40Z" finished-at="2017-05-14T23:42:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.test.actiTime.qspidersPune.loginPage.TC001_LoginToTheActiTime -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

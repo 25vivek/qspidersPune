@@ -1,0 +1,12 @@
+2017-05-14 23:25:30 INFO  TC001_LoginToTheActiTime:23 - *********************Starting verifyLoginWithvalidCredentials*******************
+2017-05-14 23:25:31 INFO  HomePage:31 - Entered user name: admin
+2017-05-14 23:25:32 INFO  HomePage:33 - Entered password: manager
+2017-05-14 23:25:32 INFO  HomePage:35 - Clicked on the Login button
+2017-05-14 23:25:36 INFO  HomePage:39 - Successful Login message: Enter Time-Track
+2017-05-14 23:25:36 INFO  TC001_LoginToTheActiTime:27 - *********************Ending verifyLoginWithvalidCredentials*******************
+2017-05-14 23:42:36 INFO  TC001_LoginToTheActiTime:23 - *********************Starting verifyLoginWithvalidCredentials*******************
+2017-05-14 23:42:37 INFO  HomePage:31 - Entered user name: admin
+2017-05-14 23:42:37 INFO  HomePage:33 - Entered password: manager
+2017-05-14 23:42:37 INFO  HomePage:35 - Clicked on the Login button
+2017-05-14 23:42:40 INFO  HomePage:39 - Successful Login message: Enter Time-Track
+2017-05-14 23:42:40 INFO  TC001_LoginToTheActiTime:27 - *********************Ending verifyLoginWithvalidCredentials*******************
