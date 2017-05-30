@@ -9,7 +9,8 @@ import org.openqa.selenium.support.PageFactory;
 
 public class HomePage {
 	//my name is vivek
-	//hello world
+	//hello world got to hell
+	// i live in bangalore
 	public static final Logger log = Logger.getLogger(HomePage.class.getName());
 	WebDriver driver;
 
